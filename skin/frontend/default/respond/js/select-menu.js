@@ -223,18 +223,6 @@
 			}
 		}
 		
-		//menu exists, and browser is mobile width
-		if(isMobile() && menuExists()){
-			$j('.mnav').show();
-			$jmenus.hide();
-		}
-			
-		//otherwise, hide the mobile menu
-		if(!isMobile() && menuExists()){
-			$j('.mnav').hide();
-			$jmenus.show();
-		}
-		
 	}//runPlugin()
 
 	

@@ -856,6 +856,7 @@ tr.summary-details-excluded { font-style:italic; }
 .nav-container select { margin: 18px 0; }
 .nav-container select { width: 100% }
 #nav {  display: inline-block; }
+.mnav { display: none; }
 
 /* All Levels */ /* Style consistent throughout all nav levels */
 #nav li { position:relative;text-align:left;	}
@@ -2241,7 +2242,9 @@ px      40    100    160    220    280    */
 	.col2-right-layout .col-right, .col2-right-layout .col-main {  float: none !important; width: 100% !important;  margin-left: 0; }
 	.col1-layout .col-main { float: none !important; width: 100% !important; }
 	
-	
+        .mnav { display: block; }
+        #nav { display: none; }
+
 	/* form elements */
 	
 	.form-list, .input-box select { width:100%; }
@@ -2359,6 +2362,9 @@ px      40    100    160    220    280    340                        */
 		width: 340px;
 		padding: 0px 20px 48px;
 	}
+        
+        .mnav { display: block; }
+        #nav { display: none; }
 	
 	/* form elements */
 	
