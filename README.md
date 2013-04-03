@@ -23,7 +23,12 @@ THEME HIGHLIGHTS
 
 The theme is free for both personal and commercial use and is licensed under an AFL license the same as Magento theme files. Some resources used have there own licenses which you will have to adhere to or remove.
 
-For documentation the original domain name is now unregistered but you can still access them at the glorious Web Archive.
+Documentation
+=============
+
+The original documentation was at the domain name respondtheme.com which is now unregistered.
+
+You can hoever still access them using the the glorious Web Archive.
 
 Try the link below for the setup instructions.  
 
