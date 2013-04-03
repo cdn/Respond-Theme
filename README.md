@@ -23,4 +23,9 @@ THEME HIGHLIGHTS
 
 The theme is free for both personal and commercial use and is licensed under an AFL license the same as Magento theme files. Some resources used have there own licenses which you will have to adhere to or remove.
 
-For documentation and more information you can go to respondtheme.com
+For documentation the original domain name is now unregistered but you can still access them at the glorious Web Archive.
+
+Try the link below for the setup instructions.  
+
+http://web.archive.org/web/20121105091614/http://respondtheme.com/documentation/
+
