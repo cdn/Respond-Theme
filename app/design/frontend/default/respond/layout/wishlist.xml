@@ -92,6 +92,7 @@ Wishlist pages
                         <block type="wishlist/customer_wishlist_item_options" name="customer.wishlist.item.options" />
                     </block>
                     <block type="wishlist/customer_wishlist_item_column_remove" name="customer.wishlist.item.remove" template="wishlist/item/column/remove.phtml" />
+                    <action method="unsetChild"><name>customer.wishlist.item.remove</name></action>
                 </block>
                 <block type="core/text_list" name="customer.wishlist.buttons" as="control_buttons">
                     <block type="wishlist/customer_wishlist_button" name="customer.wishlist.button.share" template="wishlist/button/share.phtml" />

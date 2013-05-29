@@ -1955,6 +1955,28 @@ top: 25px; }
 .my-wishlist .buttons-set .btn-share span {}
 #wishlist-table .add-to-links { white-space:nowrap; }
 
+#wishlist-table td { vertical-align: top; color: #a9a9a9; }
+
+.my-wishlist .buttons-set { box-shadow: none; border: 1px solid #ddd; background: #f4f4f4; width: auto; float: none; padding-right: 0; text-align: center; }
+.my-wishlist #wishlist-view-form .buttons-set .button { float: none; display: inline-block; margin: 5px; }
+
+.my-wishlist .btn-remove2 { background: transparent; text-indent: 0; overflow: visible; font-size: inherit; width: auto; height: auto; }
+
+.my-wishlist h3.product-name { font-size: 16px; line-height: 0.8em; }
+.my-wishlist .description { font-size: 14px; padding: 0; }
+
+.my-wishlist .column-1 { width: 113px; }
+.my-wishlist .column-1 img { min-width: 100% !important; }
+
+.my-wishlist .data-table td.column-2 { padding: 55px 0 0 5px; }
+
+.my-wishlist .data-table td.column-3 { width: 180px; padding-top: 50px; }
+.my-wishlist .column-3 .price { font-size: 18px; float: left; font-weight: normal; vertical-align: top; margin-top: 2px; }
+.my-wishlist .column-3 .price-box { margin: 0; }
+
+.my-wishlist .add-to-cart-alt { float: right; width: 120px; text-align: center; }
+.my-wishlist .cart-remove { text-align: center; margin-top: 10px; }
+
 /* My Tags */
 .my-tag-edit { float:left; margin:0 0 10px; }
 .my-tag-edit .btn-remove { float:right; margin:4px 0 0 5px; }
@@ -2066,7 +2088,6 @@ top: 25px; }
 .best-selling a.product-name,
 .home-spot .best-selling a.product-name:hover { color:#203548; }
 /* ======================================================================================= */
-
 
 /*
  * jQuery FlexSlider v1.4
