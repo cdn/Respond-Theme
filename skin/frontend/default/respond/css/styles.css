@@ -1488,9 +1488,20 @@ line-height: 36px; margin: 0; padding: 0 20px; text-decoration: none; width: aut
 .cart-table .item-msg { margin:9px 0; font-size:11px; font-weight:bold; color:#df280a; line-height: 1.6363636363}
 .cart-table tfoot td { padding:9px 10px; }
 .cart-table .btn-continue { float:left; }
+.cart-table .btn-remove { float:right; margin-top:6px}
 .cart-table .btn-continue span { }
 .cart-table .btn-continue:hover span {  }
 .cart-table .btn-update span {}
+.cart-table .price-box {margin:0}
+.cart-table .cart-price-box {padding:5px}
+.cart-table .cart-price-box,
+.cart-table .qty-wrap,
+.cart-table .cart-price-box span {float:left; display: block; font-size: 14px}
+.cart-table .cart-row-total {float: right; padding-right:18px}
+.cart-table td {vertical-align: middle}
+.cart-table td h2 {clear:none; float:left; padding-top: 10px}
+.cart-table td h2 a {font-weight: bold; color: #006fb7}
+.cart-table .product-options dd {border: none;}
 
 /* Shopping Cart Collateral boxes */
 .cart .cart-collaterals { padding:18px 0 0; }
@@ -1515,6 +1526,7 @@ ul.crosssell-products-list { margin: 10px auto; }
 
 .cart div.discount,
 .cart div.shipping { padding:9px 0;  float: left; width: 280px;  }
+.cart-table td h2,
 .cart .discount h2,
 .cart .shipping h2 { width:225px; font:normal 14px/16px Arial, Helvetica, sans-serif; text-transform: uppercase; font-weight: bold; }
 .cart .discount .discount-form,
