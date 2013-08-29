@@ -1,0 +1,9 @@
+{
+    "name": "respond/respond-theme",
+    "type": "magento-module",
+    "description": "Responsive Magento Theme",
+    "license": "AFL-3.0",
+    "require": {
+
+    }
+}
