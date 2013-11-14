@@ -7,19 +7,19 @@ The world is going mobile and so should your ecommerce site. With mobile browsin
 
 THEME HIGHLIGHTS
 
--Built to adapt to smart phones (landscape and portrait) such as the iPhone, tablets (landscape and portrait) such as the iPad, small laptops, wide-screen laptops and desktops
+- Built to adapt to smart phones (landscape and portrait) such as the iPhone, tablets (landscape and portrait) such as the iPad, small laptops, wide-screen laptops and desktops
 
--Responsive front-page slider - Flexislider
+- Responsive front-page slider - Flexislider
 
--Responsive product image viewer - Galleria.
+- Responsive product image viewer - Galleria.
 
--All XML layout changes are done in one local.xml file for better upgradability and easier changes
+- All XML layout changes are done in one local.xml file for better upgradability and easier changes
 
--Nice modern minimalist style
+- Nice modern minimalist style
 
--Cross-browser compatible
+- Cross-browser compatible
 
--The whole of the footer is a static block so you can easily edit the links and social networking links
+- The whole of the footer is a static block so you can easily edit the links and social networking links
 
 The theme is free for both personal and commercial use and is licensed under an AFL licence the same as Magento theme files. Some resources used have their own licences which you will have to adhere to or remove.
 
